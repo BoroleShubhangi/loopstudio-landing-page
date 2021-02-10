@@ -6,7 +6,7 @@
 
 👇 If you want to see the final work, click on this link 👇
 
---------- https://loopstudio-gold.vercel.app/ -----------
+--------- https://loopstudio-landing-page-topaz.vercel.app/ -----------
 
 ## The challenge
 
